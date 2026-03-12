@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Wuyang Zhang / Site Title"
+title                    : "Wuyang Zhang Personal Page"
 title_separator          : "-"
 name                     : &name "Wuyang Zhang"
 description              : &description "Data Scientist"
