@@ -13,9 +13,9 @@ title                    : "Wuyang Zhang Personal Page"
 title_separator          : "-"
 name                     : &name "Wuyang Zhang"
 description              : &description "Data Scientist"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://hardearnedmoneysniper.github.io"
+url                      : https://hardearnedmoneysniper.github.io # the base hostname & protocol for your site e.g. "https://hardearnedmoneysniper.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "hardearnedmoneysniper/hardearnedmoneysniper.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Wuyang Zhang"
   pronouns         : # example: "he/his"  
-  bio              : "B.S. in Chemical Biology, Northwest A&F University (NWAFU), 2017-2021; M.S. in Data Science, University of Colorado Boulder, 2023-2025; Ph.D. student at Westlake University, 2024-2029"
+  bio              : >-
+    <strong>B.S.</strong> NWAFU, Chemical Biology (2017-2021)<br>
+    <strong>M.S.</strong> CU Boulder, Data Science (2023-2025)<br>
+    <strong>Ph.D.</strong> Westlake University (2024-2029)
   location         : "Hangzhou-CHN"
   employer         : "Westlake University"
   uri              : # URL
@@ -325,3 +328,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
