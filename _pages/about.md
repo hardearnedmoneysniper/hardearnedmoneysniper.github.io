@@ -20,7 +20,15 @@ Content coming soon.
 Education
 ======
 
-Details will be added here soon.
+- **Northwest A&F University**, B.S. in Chemical Biology, 2017-2021
+- **University of Colorado Boulder**, M.S. in Data Science, 2023-2025
+- **Westlake University**, Ph.D., 2024-2029
+
+Work Experience
+======
+
+- **Peking University, School of Life Sciences**, Intern, 2021-2022
+- **Westlake University, School of Life Sciences**, Research Assistant, 2023-2024
 
 Projects
 ======

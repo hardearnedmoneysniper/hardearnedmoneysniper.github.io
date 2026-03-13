@@ -25,10 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Wuyang Zhang"
   pronouns         : # example: "he/his"  
-  bio              : >-
-    <strong>B.S.</strong> NWAFU, Chemical Biology (2017-2021)<br>
-    <strong>M.S.</strong> CU Boulder, Data Science (2023-2025)<br>
-    <strong>Ph.D.</strong> Westlake University (2024-2029)
+  bio              : "Ph.D. student at Westlake University with interdisciplinary training in chemical biology and data science."
   location         : "Hangzhou-CHN"
   employer         : "Westlake University"
   uri              : # URL
