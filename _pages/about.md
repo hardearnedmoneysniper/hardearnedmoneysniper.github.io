@@ -25,7 +25,7 @@ Research Interests
 Personal Interests
 ======
 
-- Tennis, Ski, Swimming and Drive my Mini Cooper
+- Tennis, skiing, swimming, and driving my Mini Cooper
 
 Education
 ======
@@ -54,5 +54,6 @@ Contact
 ======
 
 Please use the email addresses shown in the sidebar for now.
+
 
 
