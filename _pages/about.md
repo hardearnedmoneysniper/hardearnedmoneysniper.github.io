@@ -17,6 +17,11 @@ Research
 
 Content coming soon.
 
+Research Interests
+======
+
+- Quantitative Biology and Statistics
+
 Education
 ======
 
