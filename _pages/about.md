@@ -22,6 +22,11 @@ Research Interests
 
 - Quantitative Biology and Statistics
 
+Personal Interests
+======
+
+- Tennis, Ski, Swimming and Drive my Mini Cooper
+
 Education
 ======
 
@@ -49,3 +54,5 @@ Contact
 ======
 
 Please use the email addresses shown in the sidebar for now.
+
+
