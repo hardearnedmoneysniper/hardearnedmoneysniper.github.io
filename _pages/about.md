@@ -33,13 +33,14 @@ Personal Interests
 - Tennis
 - Skiing
 - Swimming
+- Driving my Mini Cooper
 
 Education
 ======
 
 - **Northwest A&F University**, B.S. in Chemical Biology, 2017-2021
-- **University of Colorado Boulder**, graduate study in Data Science (online), 2023-present
-- **Westlake University**, Ph.D. in Biology (Neurobiology), September 2024-present
+- **University of Colorado Boulder**, graduate study in Data Science, 2023-present
+- **Westlake University**, Ph.D. in Neuroscience, September 2024-present
 
 Work Experience
 ======
@@ -52,7 +53,7 @@ My broader experience is rooted in interdisciplinary training across biology, ne
 Projects
 ======
 
-This section will highlight selected projects in quantitative biology, neuroscience, and computational data analysis.
+No projects are listed at the moment. This section will be updated as relevant work becomes available.
 
 Publications
 ======

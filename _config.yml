@@ -27,6 +27,7 @@ author:
   pronouns         : # example: "he/his"  
   bio              : "Ph.D. student in Biology at Westlake University, working at the intersection of neuroscience, quantitative biology, and data analysis. Chinese name: Zhang Wuyang (张午阳)."
   location         : "Hangzhou, China"
+  location_map     : "https://www.google.com/maps/search/?api=1&query=Westlake+University+Yungu+Campus+Hangzhou+China"
   employer         : "Westlake University"
   uri              : # URL
   email            : "zhangwuyang@westlake.edu.cn"
