@@ -11,35 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Neuroscience, Westlake University, 2029 (expected)
-* M.S. in Data Science, University of Colorado at Boulder, 2025
-* B.S. in Chemical Biology, Northwest A&F University, 2021
+* Ph.D. in Biology (Neurobiology), Westlake University, September 2024 - present
+* Graduate study in Data Science (online), University of Colorado Boulder, 2023 - present
+* B.S. in Chemical Biology, Northwest A&F University, 2017 - 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Full-time Research Assistant, Westlake University**, June 2023 - August 2024
+  * Worked on human sEEG analysis during working memory tasks
+  * Used quantitative methods to study cross-region neural coupling and infer information flow
+  * Applied computational analysis techniques including modulation-based and phase-based metrics
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Interdisciplinary academic training spanning chemical biology, neurobiology, quantitative biology, and data science
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Quantitative analysis of biological phenomena
+* Neuroscience data analysis
+* Statistics and data-driven modeling
+* Signal processing for biological and neural data
+* MATLAB
+* Familiarity with Python-based research workflows and AI-assisted coding tools
 
 Publications
 ======
@@ -61,4 +53,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Information will be updated as relevant experience develops

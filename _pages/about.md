@@ -10,50 +10,59 @@ redirect_from:
 About
 ======
 
-This section is under construction.
+I am Wuyang Zhang (张午阳), a Ph.D. student in Biology at Westlake University, with a research focus in neurobiology. My background spans chemical biology, data science, and quantitative analysis, and I am interested in using computational and statistical approaches to study biological systems.
 
 Research
 ======
 
-Content coming soon.
+My current research focuses on neurobiology and quantitative biology. I am interested in understanding biological phenomena through data-driven analysis, signal processing, and computational modeling. More broadly, I enjoy combining biological questions with rigorous quantitative methods to produce interpretable results.
 
 Research Interests
 ======
 
-- Quantitative Biology and Statistics
+- Quantitative biology
+- Neurobiology
+- Computational neuroscience
+- Biological data analysis
+- Statistics and data-driven modeling
+- Signal analysis of neural data
 
 Personal Interests
 ======
 
-- Tennis, skiing, swimming, and driving my Mini Cooper
+- Tennis
+- Skiing
+- Swimming
 
 Education
 ======
 
 - **Northwest A&F University**, B.S. in Chemical Biology, 2017-2021
-- **University of Colorado Boulder**, M.S. in Data Science, 2023-2025
-- **Westlake University**, Ph.D., 2024-2029
+- **University of Colorado Boulder**, graduate study in Data Science (online), 2023-present
+- **Westlake University**, Ph.D. in Biology (Neurobiology), September 2024-present
 
 Work Experience
 ======
 
-- **Peking University, School of Life Sciences**, Intern, 2021-2022
-- **Westlake University, School of Life Sciences**, Research Assistant, 2023-2024
+**Westlake University**, Full-time Research Assistant, June 2023 - August 2024  
+Worked on human intracranial electrophysiology data related to working memory, with an emphasis on quantifying cross-region neural coupling and information flow using computational analysis methods.
+
+My broader experience is rooted in interdisciplinary training across biology, neuroscience, and data science.
 
 Projects
 ======
 
-Selected work and ongoing projects will be listed here.
+This section will highlight selected projects in quantitative biology, neuroscience, and computational data analysis.
 
 Publications
 ======
 
-Publication information will be added soon.
+Publication information will be added as my work progresses.
 
 Contact
 ======
 
-Please use the email addresses shown in the sidebar for now.
+Please feel free to reach out via the email addresses listed in the sidebar.
 
 
 

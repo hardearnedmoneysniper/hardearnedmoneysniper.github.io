@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Wuyang Zhang Personal Page"
+title                    : "Wuyang Zhang (张午阳) Personal Page"
 title_separator          : "-"
-name                     : &name "Wuyang Zhang"
-description              : &description "Data Scientist"
+name                     : &name "Wuyang Zhang (张午阳)"
+description              : &description "Quantitative Biology, Neuroscience, and Data Analysis"
 url                      : https://hardearnedmoneysniper.github.io # the base hostname & protocol for your site e.g. "https://hardearnedmoneysniper.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hardearnedmoneysniper/hardearnedmoneysniper.github.io"
@@ -23,10 +23,10 @@ repository               : "hardearnedmoneysniper/hardearnedmoneysniper.github.i
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Wuyang Zhang"
+  name             : "Wuyang Zhang (张午阳)"
   pronouns         : # example: "he/his"  
-  bio              : "Biography coming soon."
-  location         : "Hangzhou-CHN"
+  bio              : "Ph.D. student in Biology at Westlake University, working at the intersection of neuroscience, quantitative biology, and data analysis. Chinese name: Zhang Wuyang (张午阳)."
+  location         : "Hangzhou, China"
   employer         : "Westlake University"
   uri              : # URL
   email            : "zhangwuyang@westlake.edu.cn"
