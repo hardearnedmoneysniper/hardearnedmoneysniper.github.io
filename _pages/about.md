@@ -20,12 +20,12 @@ My current research focuses on neurobiology and quantitative biology. I am inter
 Research Interests
 ======
 
-- Quantitative biology
-- Neurobiology
 - Computational neuroscience
 - Biological data analysis
 - Statistics and data-driven modeling
 - Signal analysis of neural data
+- Quantitative biology
+- Neurobiology
 
 Personal Interests
 ======
@@ -39,7 +39,7 @@ Education
 ======
 
 - **Northwest A&F University**, B.S. in Chemical Biology, 2017-2021
-- **University of Colorado Boulder**, graduate study in Data Science, 2023-present
+- **University of Colorado Boulder**, M.S. in Data Science, 2023
 - **Westlake University**, Ph.D. in Neuroscience, September 2024-present
 
 Work Experience

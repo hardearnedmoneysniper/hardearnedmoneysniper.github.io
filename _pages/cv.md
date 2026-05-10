@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Neuroscience, Westlake University, September 2024 - present
-* Graduate study in Data Science, University of Colorado Boulder, 2023 - present
+* M.S. in Data Science, University of Colorado Boulder, 2023
 * B.S. in Chemical Biology, Northwest A&F University, 2017 - 2021
 
 Work experience
